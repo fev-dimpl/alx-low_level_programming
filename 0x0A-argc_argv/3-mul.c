@@ -20,7 +20,7 @@ else
 {
 	x = atoi(argv[1]);
 	y = atoi(argv[2]);
-	mult = i * j;
+	mult = x * y;
 	printf("%d\n", mult);
 }
 return (0);
