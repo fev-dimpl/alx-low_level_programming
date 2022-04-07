@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		return (1);
 	}
-	s = atoi(argv[1]);
+	co2 = atoi(argv[1]);
 	if (co2 < 1)
 		printf("0\n");
 	else
